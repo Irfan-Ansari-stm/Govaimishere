@@ -1,14 +1,11 @@
-# Govaimishere
 
-An AI-powered multi-domain assistant divided into four modules, each focusing on a specific intelligence domain.
+1. **Open `README.md` in a text editor**  
+2. **Replace everything** with the version above  
+3. **Save the file**
 
-## 📌 Project Overview
+Then in the terminal:
 
-This project includes the following modules:
-
-| Module   | Area                             | Description                                                        |
-|----------|----------------------------------|--------------------------------------------------------------------|
-| Triton   | OSINT (Open Source Intelligence) | Answers questions using publicly available data.                   |
-| Kraken   | Financial Intelligence           | Provides insights into financial markets and investment patterns.  |
-| Poseidon | Trade Intelligence               | Analyzes global and domestic trade-related topics.                 |
-| Atlas    | Geopolitical Intelligence        | Responds to geopolitical queries and summarizes key developments.  |
+```bash
+git add README.md
+git rebase --continue
+git push origin main --force
